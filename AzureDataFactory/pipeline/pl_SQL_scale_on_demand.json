@@ -44,20 +44,16 @@
 				"defaultValue": "HS_Gen5_2"
 			},
 			"AzureSQLServerName": {
-				"type": "String",
-				"defaultValue": "azuresqldave"
+				"type": "String"
 			},
 			"AzureSQLDatabaseName": {
-				"type": "String",
-				"defaultValue": "AdventureWorksLT"
+				"type": "String"
 			},
 			"SubscriptionID": {
-				"type": "String",
-				"defaultValue": "a03295d1-4467-42a8-b1ed-1afdaaec8277"
+				"type": "String"
 			},
 			"ResourceGroupName": {
-				"type": "String",
-				"defaultValue": "AzureSQLDave"
+				"type": "String"
 			},
 			"AzureRegionName": {
 				"type": "String",
